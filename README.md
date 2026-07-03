@@ -74,21 +74,6 @@ Building practical software solutions with modern technologies, focusing on clea
 
 ---
 
-## 🚀 Quick Navigation
-
-| Section | Description |
-|---------|-------------|
-| 👨‍💻 Who Am I | Professional Introduction |
-| ❤️ What I Love Building | Areas of Interest |
-| ⭐ Featured Technologies | Core Technologies |
-| 🚀 Featured Projects | My Best Projects |
-| 💻 Skills & Tools | Technical Skills |
-| 🎓 Education | Academic Journey |
-| 🏆 Certifications | Completed Certifications |
-| 🎯 Career Goal | Professional Objective |
-| 📊 GitHub Dashboard | Live GitHub Analytics |
-| 📫 Contact | Connect with Me |
-
 ---
 
 # 👨‍💻 Who Am I?
