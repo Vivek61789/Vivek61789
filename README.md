@@ -1,40 +1,93 @@
-<!-- ====================================================== -->
-<!--                     HERO SECTION                        -->
-<!-- ====================================================== -->
+<!-- ========================================================= -->
+<!--                     HERO SECTION                           -->
+<!-- ========================================================= -->
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,2,30&text=KEESARA%20VIVEK%20REDDY&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer;Python+Full+Stack+Developer;Building+Real-World+Applications;Always+Learning+Modern+Technologies"/>
+
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer;Python+Full+Stack+Developer;Building+Real-World+Applications;Always+Learning+Modern+Technologies"/>
+<table align="center">
 
-<br><br>
+<tr>
 
-<img src="https://github.com/Vivek61789.png" width="180" style="border-radius:50%;" />
+<td width="60%" valign="top">
 
-<br><br>
+# 👋 Hello, I'm
+
+# **Keesara Vivek Reddy**
+
+### 💼 Software Developer
+
+### 🐍 Python Full Stack Developer
+
+Building practical software solutions with modern technologies, focusing on clean code, scalable applications, and continuous learning.
+
+<br>
 
 <a href="https://github.com/Vivek61789">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/kvivekreddy/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:Vivekreddykeesara@gmail.com">
+
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Vivek61789&label=Profile%20Views&style=for-the-badge&color=58A6FF"/>
 
-<img src="https://img.shields.io/github/followers/Vivek61789?style=for-the-badge&logo=github"/>
+</td>
 
-</div>
+<td width="40%" align="center">
+
+<img src="https://github.com/Vivek61789.png" width="220"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vivek61789&show_icons=true&theme=github_dark&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🚀 Quick Navigation
+
+| Section | Description |
+|---------|-------------|
+| 👨‍💻 Who Am I | Professional Introduction |
+| ❤️ What I Love Building | Areas of Interest |
+| ⭐ Featured Technologies | Core Technologies |
+| 🚀 Featured Projects | My Best Projects |
+| 💻 Skills & Tools | Technical Skills |
+| 🎓 Education | Academic Journey |
+| 🏆 Certifications | Completed Certifications |
+| 🎯 Career Goal | Professional Objective |
+| 📊 GitHub Dashboard | Live GitHub Analytics |
+| 📫 Contact | Connect with Me |
 
 ---
 
