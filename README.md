@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/main/assets/hero/hero-banner.png">
+
 
 <br>
 
