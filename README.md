@@ -1,26 +1,24 @@
 <!-- ========================================================= -->
-<!--                     HERO SECTION                           -->
+<!--                        HERO SECTION                       -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=0,2,2,30&text=KEESARA%20VIVEK%20REDDY&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer;Python+Full+Stack+Developer;Building+Real-World+Applications;Always+Learning+Modern+Technologies"/>
 
 </div>
 
-<br>
+---
 
-<table align="center">
+<table width="100%">
 
 <tr>
 
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 # 👋 Hello, I'm
 
@@ -35,21 +33,15 @@ Building practical software solutions with modern technologies, focusing on clea
 <br>
 
 <a href="https://github.com/Vivek61789">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/kvivekreddy/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="mailto:Vivekreddykeesara@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <br><br>
@@ -58,13 +50,9 @@ Building practical software solutions with modern technologies, focusing on clea
 
 </td>
 
-<td width="40%" align="center">
+<td width="35%" align="center">
 
-<img src="https://github.com/Vivek61789.png" width="220"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vivek61789&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github.com/Vivek61789.png" width="220" alt="Keesara Vivek Reddy"/>
 
 </td>
 
@@ -74,64 +62,78 @@ Building practical software solutions with modern technologies, focusing on clea
 
 ---
 
----
-
 # 👨‍💻 Who Am I?
 
-<table>
+<table width="100%">
+
 <tr>
 
-<td width="65%" valign="top">
+<td width="100%" valign="top">
 
 ### Hi, I'm **Keesara Vivek Reddy** 👋
 
-🎓 Final Year **B.Tech Computer Science & Engineering** Student
-
-💼 Aspiring **Software Developer**
-
-🐍 Passionate about **Python Full Stack Development**
-
-🚀 I enjoy building practical software that solves real-world problems.
-
-🎯 Currently preparing for **Software Developer** opportunities while strengthening my skills in Full Stack Development and modern web technologies.
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vivek61789&show_icons=true&theme=github_dark&hide_border=true"/>
+- 🎓 Final Year **B.Tech Computer Science & Engineering** Student
+- 💼 Aspiring **Software Developer**
+- 🐍 Passionate about **Python Full Stack Development**
+- 🚀 I enjoy building practical software that solves real-world problems.
+- 🎯 Preparing for Software Developer opportunities by strengthening my Full Stack Development, problem-solving, and software engineering skills.
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
 # ❤️ What I Love Building
 
-<table>
+<table width="100%">
+
 <tr>
+
 <td>🌐 Full Stack Web Applications</td>
-<td>⚙️ REST APIs</td>
+<td>⚙️ REST APIs & Backend Services</td>
+
 </tr>
 
 <tr>
+
 <td>🗄️ Database Driven Applications</td>
-<td>📱 Responsive User Interfaces</td>
+<td>📱 Responsive Web Interfaces</td>
+
 </tr>
 
 <tr>
-<td>🤖 Machine Learning Projects</td>
-<td>🔗 Blockchain Applications</td>
+
+<td>🤖 Machine Learning Applications</td>
+<td>🔗 Blockchain Solutions</td>
+
+</tr>
+
+<tr>
+
+<td>☁️ Scalable Software Systems</td>
+<td>📦 Clean & Maintainable Code</td>
+
 </tr>
 
 </table>
 
 ---
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
 # 🚀 Featured Projects
 
-<table>
+<p align="center">
+<i>Projects that demonstrate my skills in Software Development, Blockchain, and Machine Learning.</i>
+</p>
+
+<table width="100%">
+
 <tr>
 
 <td width="50%" valign="top">
@@ -140,27 +142,28 @@ Building practical software solutions with modern technologies, focusing on clea
 
 <p align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/main/assets/projects/nft-homepage.png">
+<img src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/main/assets/projects/nft-homepage.png" width="100%" alt="NFT Marketplace"/>
+
 </p>
 
 ### 📖 Overview
 
-A decentralized NFT Marketplace that enables users to securely mint, buy, sell, and transfer digital assets using Ethereum smart contracts and Web3 technologies.
+A decentralized NFT Marketplace that enables users to mint, buy, sell, and securely transfer digital assets using Ethereum smart contracts and Web3 technologies.
 
-### ⚡ Key Features
+### ⭐ Key Features
 
-- 🔐 Smart Contract Based NFT Marketplace
+- 🔐 Smart Contract-Based Marketplace
 - 👛 MetaMask Wallet Authentication
 - 🎨 NFT Minting & Ownership
 - 🔄 Secure NFT Trading
-- 📦 IPFS Storage Support
+- 📦 IPFS Integration
 - 🌐 Decentralized Asset Management
 
 ### 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,solidity,mongodb"/>
+<img src="https://skillicons.dev/icons?i=solidity,mongodb"/>
 
 <br><br>
 
@@ -192,23 +195,23 @@ A decentralized NFT Marketplace that enables users to securely mint, buy, sell, 
 
 <td width="50%" valign="top">
 
-## 🍎 Fruit Ripeness Detection
+## 🍎 Fruit Ripeness Detection & Shelf-Life Prediction
 
 <p align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/main/assets/projects/fruit-homepage.png">
+<img src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/main/assets/projects/fruit-homepage.png" width="100%" alt="Fruit Ripeness Project"/>
 
 </p>
 
 ### 📖 Overview
 
-A deep learning application that classifies fruit ripeness and predicts shelf life using image processing, CNNs, and Transfer Learning.
+A deep learning application that classifies fruit ripeness and predicts shelf life using image processing, CNNs, and transfer learning techniques.
 
-### ⚡ Key Features
+### ⭐ Key Features
 
-- 🍎 Fruit Classification
-- 📷 Image Processing
-- 🤖 CNN Model
+- 🍎 Fruit Ripeness Classification
+- 📷 Image Processing with OpenCV
+- 🤖 CNN-Based Deep Learning Model
 - 📊 Shelf-Life Prediction
 - 📈 90%+ Validation Accuracy
 - 🖥️ User-Friendly Interface
@@ -235,34 +238,52 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Repository-Coming%20Soon-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Repository-Private%20Project-2563EB?style=for-the-badge"/>
 
 </p>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
 # ⭐ Featured Technologies
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,react,cpp,mysql,git" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,django,react,mysql,mongodb,git,vscode" />
 
-</div>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+
+</p>
 
 ---
+
 <!-- ========================================================= -->
-<!--                 SKILLS & TOOLS DASHBOARD                  -->
+<!--                   SKILLS & TOOLS                          -->
 <!-- ========================================================= -->
 
 # 💻 Skills & Tools
 
 <p align="center">
-<i>Technologies I use to build modern software applications.</i>
+<i>Technologies and tools I use to build modern software applications.</i>
 </p>
 
 ---
@@ -271,45 +292,9 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript" />
 
 </p>
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
-<b>Python</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=c" width="48"/><br>
-<b>C</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>
-<b>C++</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>
-<b>JavaScript</b>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -317,45 +302,9 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 
 </p>
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br>
-<b>HTML5</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br>
-<b>CSS3</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>
-<b>Bootstrap</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br>
-<b>React</b>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -363,45 +312,17 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django"/>
+<img src="https://skillicons.dev/icons?i=django" />
 
 </p>
 
-<table align="center">
+<p align="center">
 
-<tr>
+<img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
-<td align="center">
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
-<b>Python</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=django" width="48"/><br>
-<b>Django</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white"/><br>
-<b>Django REST Framework</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/REST_API-4CAF50?style=flat-square"/><br>
-<b>REST API</b>
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
@@ -409,38 +330,9 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 
 </p>
-
-<table align="center">
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
-<b>MySQL</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>
-<b>MongoDB</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br>
-<b>SQLite</b>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -448,11 +340,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-</p>
-
-<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 
@@ -470,11 +358,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=solidity"/>
-
-</p>
-
-<p align="center">
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 
@@ -486,6 +370,8 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 
 <img src="https://img.shields.io/badge/ERC--1155-6A5ACD?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -494,253 +380,171 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 
 </p>
 
-<table align="center">
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
-<b>Git</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
-<b>GitHub</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
-<b>VS Code</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="48"/><br>
-<b>Postman</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="48"/><br>
-<b>Linux</b>
-</td>
-
-</tr>
-
-</table>
-
----
-<!-- ========================================================= -->
-<!--                EDUCATION JOURNEY                          -->
-<!-- ========================================================= -->
-
-# 🎓 Education Journey
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### 2022
-
-🎓
-
-Started
-
-**B.Tech**
-
-Computer Science & Engineering
-
-</td>
-
-<td align="center">
-
-⬇️
-
-</td>
-
-<td width="25%" align="center">
-
-### 2024
-
-🍎
-
-Built
-
-**Fruit Ripeness Detection**
-
-Machine Learning Project
-
-</td>
-
-<td align="center">
-
-⬇️
-
-</td>
-
-<td width="25%" align="center">
-
-### 2025
-
-⛓️
-
-Built
-
-**Blockchain NFT Marketplace**
-
-Major Project
-
-</td>
-
-<td align="center">
-
-⬇️
-
-</td>
-
-<td width="25%" align="center">
-
-### 2026
-
-🎓
-
-Expected
-
-**Graduation**
-
-Software Developer Journey Begins 🚀
-
-</td>
-
-</tr>
-
-</table>
-
 ---
 
-<!-- ========================================================= -->
-<!--                  CERTIFICATIONS                           -->
-<!-- ========================================================= -->
-
-# 🏆 Certifications
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🐍 Python Programming
-
-🏢 GeeksforGeeks
-
-📚 Core Python Programming
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌿 Git & GitHub
-
-🏢 GeeksforGeeks
-
-📚 Version Control & Collaboration
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Web Development
-
-🏢 GeeksforGeeks
-
-📚 Frontend Development
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗄 SQL
-
-🏢 Infosys Springboard
-
-📚 Database Management
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<!-- ========================================================= -->
-<!--                   CAREER GOAL                             -->
-<!-- ========================================================= -->
-
-# 🎯 Career Goal
+## 🎯 Areas of Interest
 
 <div align="center">
 
-```text
-        💼
-Software Developer
-        │
-        ▼
-🐍 Python Full Stack Development
-        │
-        ▼
-🚀 Building Real-World Applications
-        │
-        ▼
-📚 Continuous Learning &
-Professional Growth
-```
+| Software Development | Python Full Stack | Machine Learning |
+|:---------------------:|:-----------------:|:----------------:|
+| 🌐 Web Development | 🐍 Django | 🤖 Deep Learning |
+| ⚙️ REST APIs | ⚛️ React | 📷 Computer Vision |
+| 🗄 Database Design | 🔗 Backend Development | 📊 Data Processing |
+| 💻 Problem Solving | 🚀 Clean Code | 🧠 AI Applications |
 
 </div>
 
 ---
 
-## 🌟 Why Hire Me?
+<!-- ========================================================= -->
+<!--           EDUCATION • CERTIFICATIONS • GOAL              -->
+<!-- ========================================================= -->
 
-<table>
+# 🎓 Education Journey
+
+```text
+2022
+│
+├── 🎓 Started B.Tech
+│     Computer Science & Engineering
+│
+2024
+│
+├── 🍎 Fruit Ripeness Detection &
+│     Shelf-Life Prediction
+│     Machine Learning Project
+│
+2025
+│
+├── ⛓️ Blockchain-Enabled
+│     NFT Marketplace
+│     Major Project
+│
+2026
+│
+└── 🎯 Expected Graduation
+      Aspiring Software Developer
+```
+
+---
+
+# 🏆 Certifications
+
+<table width="100%">
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-✔ Strong Python Foundation
+### 🐍 Python Programming
 
-✔ Real-World Academic Projects
+**Provider**
 
-✔ Passion for Software Development
-
-✔ Quick Learner
+GeeksforGeeks
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-✔ Problem Solving Mindset
+### 🌿 Git & GitHub
 
-✔ Team Collaboration
+**Provider**
 
-✔ Clean Coding Practices
+GeeksforGeeks
 
-✔ Continuous Skill Development
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🌐 Web Development
+
+**Provider**
+
+GeeksforGeeks
+
+</td>
+
+<td width="50%" align="center">
+
+### 🗄 SQL
+
+**Provider**
+
+Infosys Springboard
 
 </td>
 
 </tr>
 
 </table>
+
+---
+
+# 🎯 Career Goal
+
+```text
+            💼
+     Software Developer
+             │
+             ▼
+ 🐍 Python Full Stack Developer
+             │
+             ▼
+ 🌍 Build Scalable Web Applications
+             │
+             ▼
+ 🚀 Contribute to Real-World Software
+             │
+             ▼
+ 📚 Continuous Learning & Growth
+```
+
+---
+
+# ⭐ Core Strengths
+
+<table width="100%">
+
+<tr>
+
+<td align="center">🐍 Python</td>
+<td align="center">💻 Software Development</td>
+<td align="center">🧠 Problem Solving</td>
+<td align="center">🚀 Quick Learner</td>
+
+</tr>
+
+<tr>
+
+<td align="center">🌐 Full Stack Development</td>
+<td align="center">⚙️ REST APIs</td>
+<td align="center">🤝 Team Collaboration</td>
+<td align="center">✨ Clean Code</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📌 Current Focus
+
+- 🌐 Python Full Stack Development
+- ⚙️ Django & Django REST Framework
+- ⚛️ React.js
+- 🗄️ Database Design
+- 📦 REST API Development
+- 💻 Data Structures & Algorithms
+- 🚀 Software Engineering Best Practices
 
 ---
 
@@ -751,48 +555,24 @@ Professional Growth
 # 📊 GitHub Dashboard
 
 <p align="center">
-<i>Live GitHub statistics powered by GitHub widgets.</i>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vivek61789&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek61789&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
-<table>
+<p align="center">
 
-<tr>
+<img height="170" src="https://streak-stats.demolab.com?user=Vivek61789&theme=github-dark&hide_border=true"/>
 
-<td width="50%">
+<img height="170" src="https://github-profile-trophy.vercel.app/?username=Vivek61789&theme=algolia&no-frame=true&no-bg=true&column=3"/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Vivek61789&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-</td>
-
-<td width="50%">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek61789&layout=compact&theme=github_dark&hide_border=true"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek61789&theme=github-dark&hide_border=true"/>
-
-</td>
-
-<td width="50%">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Vivek61789&theme=algolia&no-frame=true&column=3&margin-w=15"/>
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -802,61 +582,51 @@ Professional Growth
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </p>
 
-> **Note:** This image will appear after we configure the GitHub Actions workflow (`.github/workflows/snake.yml`) in the next step.
+> **Note:** The snake animation will appear after your GitHub Action successfully generates the `output` branch.
 
 ---
 
-<!-- ========================================================= -->
-<!--                     LET'S CONNECT                         -->
-<!-- ========================================================= -->
-
-# 📫 Let's Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Vivek61789">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/kvivekreddy/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 <a href="mailto:Vivekreddykeesara@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 </p>
 
 ---
 
-## 💬 Thanks for Visiting!
+# 💬 Thanks for Visiting
 
 <div align="center">
 
 ### ⭐ Thank you for visiting my GitHub Profile!
 
-If you like my projects, consider ⭐ starring the repositories.
+I'm passionate about building software that solves real-world problems and continuously improving my development skills.
 
-I’m always open to learning, collaboration, and exciting software development opportunities.
+If you enjoy my work, consider ⭐ starring my repositories and connecting with me on LinkedIn.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:161B22"/>
 
 </div>
 
