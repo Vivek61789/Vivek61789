@@ -1,142 +1,195 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Keesara Vivek Reddy</h1>
+<img width="100%" src="./assets/banner.svg"/>
 
-<h3 align="center">Software Developer | Python Full Stack Developer | B.Tech CSE (2026)</h3>
+<br><br>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=Software+Developer;Python+Full+Stack+Developer;Problem+Solver;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
-</p>
+# 👋 Hi, I'm **Keesara Vivek Reddy**
 
-<p align="center">
-<a href="https://github.com/Vivek61789"><img src="https://img.shields.io/github/followers/Vivek61789?style=for-the-badge"/></a>
+### Software Developer • Python Full Stack Developer • B.Tech CSE (2026)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Developer;Python+Full+Stack+Developer;Problem+Solver;Building+Scalable+Applications;Always+Learning+Modern+Technologies"/>
+
+<br>
+
+<a href="https://www.linkedin.com/in/kvivekreddy/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Vivekreddykeesara@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vivek61789">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=Vivek61789&style=for-the-badge&color=0e75b6"/>
-</p>
+
+<img src="https://img.shields.io/github/followers/Vivek61789?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 💎 About Me
 
-🎓 Final Year **B.Tech Computer Science & Engineering** Student (Graduating 2026)
-
-💼 Aspiring **Software Developer** with a strong interest in **Python Full Stack Development**, Web Technologies, Machine Learning, and Blockchain.
-
-🌱 **Currently Learning**
-- Advanced Python
-- Django
-- Django REST Framework
-- React.js
-- SQL
-- Data Structures & Algorithms
-
-🎯 **Career Goal**
-
-To build scalable software, contribute to impactful products, and grow into a skilled Software Engineer.
+> [!NOTE]
+>
+> 🎓 Final Year **B.Tech Computer Science & Engineering** Student
+>
+> 💼 Passionate about **Software Development** and **Python Full Stack Development**
+>
+> 🚀 Strong interest in Web Development, Machine Learning and Blockchain
+>
+> 🎯 Looking for Software Developer opportunities where I can contribute, learn and grow.
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Tech Stack
 
-<p align="center">
-<a href="https://www.linkedin.com/in/kvivekreddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:Vivekreddykeesara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Vivek61789"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-</p>
+> Programming Languages
 
----
-
-## 💻 Programming Languages
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,mysql,bash"/>
-</p>
 
-## 🚀 Python Full Stack
+<br>
 
-<p align="center">
+> Python Full Stack
+
 <img src="https://skillicons.dev/icons?i=django,react,bootstrap,sqlite,mongodb,git,github,vscode,postman"/>
-</p>
 
-## 🤖 Machine Learning
+<br>
 
-<p align="center">
+> Machine Learning
+
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
+
 <img src="https://img.shields.io/badge/CNN-orange?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/MobileNetV2-blue?style=for-the-badge"/>
-</p>
-
-## ⚙️ Developer Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux"/>
-<img src="https://img.shields.io/badge/Git_Bash-black?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
-</p>
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
-### ⛓️ Blockchain NFT Marketplace
-| Highlights | |
-|---|---|
-| Tech | Solidity, Ethereum, Web3.js, ERC-721, ERC-1155, MetaMask, IPFS, MongoDB |
-| Features | Smart Contracts • Wallet Authentication • Secure NFT Trading • Decentralized Marketplace |
+<table>
 
-### 🍎 Deep Learning Fruit Ripeness Detection & Shelf-Life Prediction
-| Highlights | |
-|---|---|
-| Tech | Python, TensorFlow, Keras, CNN, OpenCV, MobileNetV2 |
-| Features | 90%+ Accuracy • Shelf-Life Prediction • Computer Vision • Image Classification |
+<tr>
+
+<td width="50%">
+
+## ⛓ Blockchain NFT Marketplace
+
+A decentralized NFT Marketplace developed using Ethereum Blockchain.
+
+### Tech
+
+- Solidity
+- Ethereum
+- Web3.js
+- MetaMask
+- ERC-721
+- ERC-1155
+- MongoDB
+- IPFS
+
+🔗 Repository *(Coming Soon)*
+
+</td>
+
+<td width="50%">
+
+## 🍎 Fruit Ripeness Detection
+
+Deep Learning based Fruit Ripeness Detection and Shelf-Life Prediction.
+
+### Tech
+
+- Python
+- TensorFlow
+- CNN
+- MobileNetV2
+- OpenCV
+
+🔗 Repository *(Coming Soon)*
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Dashboard
 
-<p align="center">
+<div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vivek61789&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek61789&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
+<br><br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivek61789&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vivek61789&theme=tokyonight&no-frame=true&column=4"/>
-</p>
+<br><br>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Vivek61789&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-## 📈 Contribution Graph
+<br><br>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Vivek61789&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek61789&theme=tokyo-night"/>
 
----
-
-## 🐍 Contribution Snake
-
-```md
-<p align="center">
-<img src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/output/github-contribution-grid-snake.svg"/>
-</p>
-```
+</div>
 
 ---
 
-## ✍️ Random Dev Quote
+# 🎓 Education
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-- 📧 **Email:** Vivekreddykeesara@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/kvivekreddy/
-- 💻 **GitHub:** https://github.com/Vivek61789
+| Degree | Institute | Duration |
+|---------|-----------|----------|
+| B.Tech Computer Science & Engineering | Bharath Institute of Higher Education and Research | 2022 - 2026 |
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+# 🏅 Certifications
+
+- 🏆 Python Programming — GeeksforGeeks
+- 🏆 Git & GitHub — GeeksforGeeks
+- 🏆 Web Development — GeeksforGeeks
+- 🏆 SQL — Infosys Springboard
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+> Vivekreddykeesara@gmail.com
+
+💼 **LinkedIn**
+
+> https://www.linkedin.com/in/kvivekreddy/
+
+💻 **GitHub**
+
+> https://github.com/Vivek61789
+
+---
+
+<div align="center">
+
+<img width="100%" src="./assets/footer.svg"/>
+
+### ⭐ Thanks for visiting my profile ⭐
+
+*"Building software that solves real-world problems."*
+
+</div>
