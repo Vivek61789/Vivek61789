@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:161B22&text=KEESARA%20VIVEK%20REDDY&fontColor=58A6FF&fontSize=42&fontAlignY=40&desc=Software%20Developer%20%7C%20Python%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/main/assets/hero/hero-banner.png">
 
 <br>
 
@@ -102,8 +102,7 @@
 
 <p align="center">
 
-<img width="100%" src="./assets/nft-homepage.png"/>
-
+<img width="100%" src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/main/assets/projects/nft-homepage.png">
 </p>
 
 ### 📖 Overview
@@ -159,7 +158,7 @@ A decentralized NFT Marketplace that enables users to securely mint, buy, sell, 
 
 <p align="center">
 
-<img width="100%" src="./assets/fruit-homepage.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/main/assets/projects/fruit-homepage.png">
 
 </p>
 
