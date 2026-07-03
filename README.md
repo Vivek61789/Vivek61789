@@ -123,7 +123,7 @@ A decentralized NFT Marketplace that enables users to securely mint, buy, sell, 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=solidity,mongodb"/>
+<img src="https://skillicons.dev/icons?i=python,solidity,mongodb"/>
 
 <br><br>
 
