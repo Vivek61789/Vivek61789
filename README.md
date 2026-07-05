@@ -163,7 +163,7 @@ A decentralized NFT Marketplace that enables users to mint, buy, sell, and secur
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=solidity,mongodb"/>
+<img src="https://skillicons.dev/icons?i=python,solidity,mongodb"/>
 
 <br><br>
 
@@ -554,21 +554,19 @@ Infosys Springboard
 
 # 📊 GitHub Dashboard
 
-<p align="center">
+# 📊 GitHub Dashboard
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vivek61789&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek61789&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.shion.dev/api?username=Vivek61789&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-</p>
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vivek61789&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<p align="center">
+<br><br>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Vivek61789&theme=github-dark&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=Vivek61789&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-profile-trophy.vercel.app/?username=Vivek61789&theme=algolia&no-frame=true&no-bg=true&column=3"/>
-
-</p>
+</div>
 
 ---
 
