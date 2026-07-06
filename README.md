@@ -554,8 +554,6 @@ Infosys Springboard
 
 # 📊 GitHub Dashboard
 
-# 📊 GitHub Dashboard
-
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.shion.dev/api?username=Vivek61789&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
