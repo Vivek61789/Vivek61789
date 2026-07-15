@@ -409,10 +409,10 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <table>
 
 <tr>
-<td width="180"><b>🐍 Python</b></td>
+<td width="230"><b>🐍 Python</b></td>
 <td width="420">
 
-🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 95%
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 97%
 
 </td>
 </tr>
@@ -421,7 +421,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>🌐 HTML5</b></td>
 <td>
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
+🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ 88%
 
 </td>
 </tr>
@@ -430,7 +430,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>🎨 CSS3</b></td>
 <td>
 
-🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 88%
+🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 86%
 
 </td>
 </tr>
@@ -439,7 +439,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>⚡ JavaScript</b></td>
 <td>
 
-🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜ 82%
+🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜ 83%
 
 </td>
 </tr>
@@ -448,7 +448,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>⚛️ React.js</b></td>
 <td>
 
-🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 79%
 
 </td>
 </tr>
@@ -457,7 +457,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>🚀 Django</b></td>
 <td>
 
-🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
+🟩🟩🟩🟩🟩🟩🟩🟦⬜⬜ 75%
 
 </td>
 </tr>
@@ -466,7 +466,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>🔗 Django REST Framework</b></td>
 <td>
 
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 78%
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 78%
 
 </td>
 </tr>
@@ -475,7 +475,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>🗄️ MySQL</b></td>
 <td>
 
-🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ 85%
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 81%
 
 </td>
 </tr>
@@ -484,7 +484,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>🍃 MongoDB</b></td>
 <td>
 
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 72%
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 76%
 
 </td>
 </tr>
@@ -493,7 +493,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>💻 C</b></td>
 <td>
 
-🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 78%
+🟦🟦🟦🟦🟦🟦🟦🟦🟩⬜ 87%
 
 </td>
 </tr>
@@ -502,7 +502,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>💻 C++</b></td>
 <td>
 
-🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 80%
+🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 89%
 
 </td>
 </tr>
@@ -511,7 +511,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>🔧 Git</b></td>
 <td>
 
-🟥🟥🟥🟥🟥🟥🟥🟥🟦⬜ 85%
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟦 95%
 
 </td>
 </tr>
@@ -520,7 +520,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>🐙 GitHub</b></td>
 <td>
 
-⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 85%
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ 96%
 
 </td>
 </tr>
@@ -529,16 +529,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>🧠 Data Structures</b></td>
 <td>
 
-🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ 78%
-
-</td>
-</tr>
-
-<tr>
-<td><b>🔍 Problem Solving</b></td>
-<td>
-
-🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜ 82%
+🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜ 89%
 
 </td>
 </tr>
@@ -547,7 +538,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>🤖 Machine Learning</b></td>
 <td>
 
-🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 72%
+🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 68%
 
 </td>
 </tr>
@@ -556,7 +547,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>📷 OpenCV</b></td>
 <td>
 
-🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%
+🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 45%
 
 </td>
 </tr>
@@ -565,7 +556,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>🧠 TensorFlow / Keras</b></td>
 <td>
 
-🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ 68%
+🟧🟧🟧🟧⬜⬜⬜⬜⬜⬜ 43%
 
 </td>
 </tr>
@@ -574,7 +565,7 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>⛓️ Blockchain</b></td>
 <td>
 
-🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ 68%
+🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ 57%
 
 </td>
 </tr>
@@ -583,12 +574,14 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 <td><b>📱 Responsive Design</b></td>
 <td>
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 88%
+🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 69%
 
 </td>
 </tr>
 
 </table>
+
+---
 
 ---
 
