@@ -400,6 +400,197 @@ A deep learning application that classifies fruit ripeness and predicts shelf li
 </div>
 
 ---
+<!-- ========================================================= -->
+<!--              TECHNICAL EXPERTISE                          -->
+<!-- ========================================================= -->
+
+# 📈 Technical Expertise
+
+<table>
+
+<tr>
+<td width="180"><b>🐍 Python</b></td>
+<td width="420">
+
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 95%
+
+</td>
+</tr>
+
+<tr>
+<td><b>🌐 HTML5</b></td>
+<td>
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
+
+</td>
+</tr>
+
+<tr>
+<td><b>🎨 CSS3</b></td>
+<td>
+
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 88%
+
+</td>
+</tr>
+
+<tr>
+<td><b>⚡ JavaScript</b></td>
+<td>
+
+🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜ 82%
+
+</td>
+</tr>
+
+<tr>
+<td><b>⚛️ React.js</b></td>
+<td>
+
+🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%
+
+</td>
+</tr>
+
+<tr>
+<td><b>🚀 Django</b></td>
+<td>
+
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
+
+</td>
+</tr>
+
+<tr>
+<td><b>🔗 Django REST Framework</b></td>
+<td>
+
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 78%
+
+</td>
+</tr>
+
+<tr>
+<td><b>🗄️ MySQL</b></td>
+<td>
+
+🟧🟧🟧🟧🟧🟧🟧🟧🟧⬜ 85%
+
+</td>
+</tr>
+
+<tr>
+<td><b>🍃 MongoDB</b></td>
+<td>
+
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 72%
+
+</td>
+</tr>
+
+<tr>
+<td><b>💻 C</b></td>
+<td>
+
+🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 78%
+
+</td>
+</tr>
+
+<tr>
+<td><b>💻 C++</b></td>
+<td>
+
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 80%
+
+</td>
+</tr>
+
+<tr>
+<td><b>🔧 Git</b></td>
+<td>
+
+🟥🟥🟥🟥🟥🟥🟥🟥🟦⬜ 85%
+
+</td>
+</tr>
+
+<tr>
+<td><b>🐙 GitHub</b></td>
+<td>
+
+⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜ 85%
+
+</td>
+</tr>
+
+<tr>
+<td><b>🧠 Data Structures</b></td>
+<td>
+
+🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜ 78%
+
+</td>
+</tr>
+
+<tr>
+<td><b>🔍 Problem Solving</b></td>
+<td>
+
+🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜ 82%
+
+</td>
+</tr>
+
+<tr>
+<td><b>🤖 Machine Learning</b></td>
+<td>
+
+🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ 72%
+
+</td>
+</tr>
+
+<tr>
+<td><b>📷 OpenCV</b></td>
+<td>
+
+🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%
+
+</td>
+</tr>
+
+<tr>
+<td><b>🧠 TensorFlow / Keras</b></td>
+<td>
+
+🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ 68%
+
+</td>
+</tr>
+
+<tr>
+<td><b>⛓️ Blockchain</b></td>
+<td>
+
+🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜ 68%
+
+</td>
+</tr>
+
+<tr>
+<td><b>📱 Responsive Design</b></td>
+<td>
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 88%
+
+</td>
+</tr>
+
+</table>
+
+---
 
 <!-- ========================================================= -->
 <!--           EDUCATION • CERTIFICATIONS • GOAL              -->
