@@ -244,7 +244,7 @@ A decentralized NFT Marketplace that enables users to mint, buy, sell, and secur
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,solidity,mongodb"/>
+<img src="https://skillicons.dev/icons?i=solidity,mongodb"/>
 
 <br><br>
 
