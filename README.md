@@ -132,34 +132,126 @@ Building practical software solutions with modern technologies, focusing on clea
 <i>Projects that demonstrate my skills in Full Stack Development, Blockchain, and Machine Learning.</i>
 </p>
 
-<table width="100%">
+## 🚀 Featured Projects
 
-<!-- ========================================================= -->
-<!--                   ROW 1 — DEVHIRE + NFT                   -->
-<!-- ========================================================= -->
+<table>
+<tr>
+
+<!-- ==================== PROJECT 1 ==================== -->
+
+<td width="50%" valign="top">
+
+<h2>🍎 Fruit Ripeness Detection & Shelf-Life Prediction</h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/main/assets/projects/fruit-homepage.png" width="100%" alt="Fruit Ripeness Detection & Shelf-Life Prediction"/>
+</p>
+
+<h3>📖 Overview</h3>
+
+<p>
+A deep learning-based application that analyzes fruit images to classify ripeness and predict the remaining shelf life. The system combines image processing, CNN-based classification, and regression techniques to provide useful information about fruit quality.
+</p>
+
+<h3>⚡ Key Features</h3>
+
+<ul>
+<li>🍎 Fruit Ripeness Classification</li>
+<li>🔍 Image Processing with OpenCV</li>
+<li>🧠 CNN-Based Deep Learning Model</li>
+<li>📅 Shelf-Life Prediction</li>
+<li>🎯 90%+ Validation Accuracy</li>
+<li>🖥️ User-Friendly Interface</li>
+</ul>
+
+<h3>🛠️ Tech Stack</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+<br><br>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MobileNetV2-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-6A1B9A?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Private%20Project-555555?style=for-the-badge"/>
+</p>
+
+</td>
+
+<!-- ==================== PROJECT 2 ==================== -->
+
+<td width="50%" valign="top">
+
+<h2>🛒 E-Commerce SQL Analytics Engine</h2>
+
+<p align="center">
+<img src="./assets/projects/ecommerce-sql-homepage.png" width="100%" alt="E-Commerce SQL Analytics Engine"/>
+</p>
+
+<h3>📖 Overview</h3>
+
+<p>
+A complete MySQL e-commerce database project designed to demonstrate SQL from basic queries to advanced database engineering and business analytics. It simulates a realistic e-commerce system with customers, products, sellers, orders, payments, shipments, inventory, reviews, coupons and audit tracking.
+</p>
+
+<h3>⚡ Key Features</h3>
+
+<ul>
+<li>🗄️ 15 Related Database Tables</li>
+<li>🔗 Primary & Foreign Key Relationships</li>
+<li>🔎 Basic to Advanced SQL Queries</li>
+<li>🧩 Joins, Subqueries & CTEs</li>
+<li>📈 Window Functions & Advanced Analytics</li>
+<li>👁️ Views & Stored Procedures</li>
+<li>⚙️ Stored Functions & Triggers</li>
+<li>💳 Transactions & Savepoints</li>
+<li>🔐 Database Security & Roles</li>
+<li>⚡ Indexing, EXPLAIN & Query Optimization</li>
+<li>📊 Sales, Customer, Product & Revenue Analytics</li>
+</ul>
+
+<h3>🛠️ Tech Stack</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<br><br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database%20Design-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL%20Analytics-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Query%20Optimization-E65100?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Vivek61789/E-Commerce-SQL-Analytics-.git">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
 
 <tr>
 
-<!-- ===================== DEVHIRE ============================ -->
+<!-- ==================== PROJECT 3 ==================== -->
 
 <td width="50%" valign="top">
 
 <h2>💼 DevHire – Smart Recruitment Platform</h2>
 
 <p align="center">
-
-<img width="100%" src="./assets/projects/devhire-homepage.png" alt="DevHire Smart Recruitment Platform"/>
-
+<img src="./assets/projects/devhire-homepage.png" width="100%" alt="DevHire Smart Recruitment Platform"/>
 </p>
 
 <h3>📖 Overview</h3>
 
 <p>
-DevHire is a full-stack developer recruitment platform designed to connect candidates with recruiters and companies through a structured job hiring workflow.
-</p>
-
-<p>
-It provides separate candidate and recruiter experiences with secure authentication, job management, applications, dashboards, notifications, company profiles, and application tracking.
+A full-stack recruitment platform designed to connect candidates with recruiters and companies through a structured hiring workflow. It provides separate candidate and recruiter experiences with secure authentication, job management, applications, dashboards, notifications and application tracking.
 </p>
 
 <h3>⚡ Key Features</h3>
@@ -183,165 +275,76 @@ It provides separate candidate and recruiter experiences with secure authenticat
 <h3>🛠️ Tech Stack</h3>
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,django,react,vite,sqlite"/>
-
 <br><br>
-
 <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-
 </p>
 
 <p align="center">
-
-<a href="https://github.com/Vivek61789/DevHire-Smart-Recruitment-Platform">
-
+<a href="https://github.com/Vivek61789/DevHire-Smart-Recruitment-Platform.git">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
-
 </p>
 
 </td>
 
-
-<!-- ====================== NFT =============================== -->
+<!-- ==================== PROJECT 4 ==================== -->
 
 <td width="50%" valign="top">
 
 <h2>⛓️ Blockchain-Enabled NFT Marketplace</h2>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/main/assets/projects/nft-homepage.png" width="100%" alt="NFT Marketplace"/>
-
+<img src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/main/assets/projects/nft-homepage.png" width="100%" alt="Blockchain Enabled NFT Marketplace"/>
 </p>
 
 <h3>📖 Overview</h3>
 
 <p>
-A decentralized NFT Marketplace that enables users to mint, buy, sell, and securely transfer digital assets using Ethereum smart contracts and Web3 technologies.
+A decentralized NFT marketplace that enables users to mint, buy, sell and transfer digital assets using blockchain technology and smart contracts. The platform focuses on decentralized ownership, secure transactions and digital asset management.
 </p>
 
-<h3>⭐ Key Features</h3>
+<h3>⚡ Key Features</h3>
 
 <ul>
-<li>🔐 Smart Contract-Based Marketplace</li>
-<li>👛 MetaMask Wallet Authentication</li>
+<li>⛓️ Smart Contract-Based Marketplace</li>
+<li>🦊 MetaMask Integration</li>
 <li>🎨 NFT Minting & Ownership</li>
-<li>🔄 Secure NFT Trading</li>
-<li>📦 IPFS Integration</li>
+<li>💰 NFT Buying & Selling</li>
+<li>🔐 Secure Blockchain Transactions</li>
+<li>📦 IPFS-Based Asset Storage</li>
 <li>🌐 Decentralized Asset Management</li>
+<li>🪙 ERC-721 & ERC-1155 Support</li>
 </ul>
 
 <h3>🛠️ Tech Stack</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=solidity,mongodb"/>
-
+<img src="https://skillicons.dev/icons?i=python,mongodb,solidity"/>
 <br><br>
-
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ERC--721-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ERC--1155-6A5ACD?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white"/>
+<img src="https://img.shields.io/badge/ERC--721-627EEA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ERC--1155-627EEA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
 </p>
 
 <p align="center">
-
-<a href="https://github.com/Vivek61789/Major-project">
-
+<a href="https://github.com/Vivek61789/Major-project.git">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 </a>
-
 </p>
 
 </td>
 
 </tr>
-
-
-<!-- ========================================================= -->
-<!--                    ROW 2 — FRUIT                          -->
-<!-- ========================================================= -->
-
-<tr>
-
-<td colspan="2" valign="top">
-
-<h2 align="center">🍎 Fruit Ripeness Detection & Shelf-Life Prediction</h2>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Vivek61789/Vivek61789/main/assets/projects/fruit-homepage.png" width="85%" alt="Fruit Ripeness Project"/>
-
-</p>
-
-<h3>📖 Overview</h3>
-
-<p>
-A deep learning application that classifies fruit ripeness and predicts shelf life using image processing, CNNs, and transfer learning techniques.
-</p>
-
-<h3>⭐ Key Features</h3>
-
-<ul>
-<li>🍎 Fruit Ripeness Classification</li>
-<li>📷 Image Processing with OpenCV</li>
-<li>🤖 CNN-Based Deep Learning Model</li>
-<li>📊 Shelf-Life Prediction</li>
-<li>📈 90%+ Validation Accuracy</li>
-<li>🖥️ User-Friendly Interface</li>
-</ul>
-
-<h3>🛠️ Tech Stack</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CNN-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MobileNetV2-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Transfer%20Learning-10B981?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Repository-Private%20Project-2563EB?style=for-the-badge"/>
-
-</p>
-
-</td>
-
-</tr>
-
 </table>
 
+---
 ---
 
 <!-- ========================================================= -->
